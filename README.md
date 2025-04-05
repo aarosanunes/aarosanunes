@@ -1,6 +1,6 @@
 - 👋 Olá, Eu sou a Ana Nunes!
-- 👀 interessada a ter meu primeiro emprego como Dev
-- 🌱 Estou estudando javaScript
+- 👀 Buscando pela primeira oportunidade como estágaria em TI. 
+- 🌱 Estou estudando JAVA e Design de interação!! 
 - 📫 Onde me achar >> aarosanunes@gmail.com
 
 
