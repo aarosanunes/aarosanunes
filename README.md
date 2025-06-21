@@ -1,7 +1,51 @@
-- 👋 Olá, Eu sou a Ana Nunes!
-- 👀 Buscando pela primeira oportunidade como estágaria em TI. 
-- 🌱 Estou estudando JAVA e Design de interação!! 
-- 📫 Onde me achar >> aarosanunes@gmail.com
+<h1 align="center">Olá, eu sou a Ana Nunes! 🌱</h1>
+
+<p align="center">
+  <i>Estudante de Análise e Desenvolvimento de Sistemas | Apaixonada por tecnologia e sustentabilidade</i>
+</p>
+
+---
+
+## 🚀 Sobre mim
+
+🎓 Atualmente curso o 3º semestre de Análise e Desenvolvimento de Sistemas na Uninter.  
+💼 Jovem Aprendiz na área administrativa, com foco em organização e eficiência.  
+💻 Desenvolvendo projetos voltados para impacto ambiental positivo e tecnologia acessível.  
+🌎 Projeto atual: [Calculadora de Carbono e Blog de Horta](https://aarosanunes.github.io/projeto-extensionista-blog-de-horta-e-calculadora-de-carbono/)
+
+---
+
+## 🛠️ Tecnologias que estudo e pratico
+
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=aarosanunes&show_icons=true&theme=radical" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarosanunes&layout=compact&theme=radical" />
+</div>
+
+---
+
+## 📫 Contato
+
+- 📧 Email: aarosanunes@gmail.com  
+- 💼 [LinkedIn](www.linkedin.com/in/ana-rosa-nunes-7b978b209)  
+- 🌐 [Portfólio Web](https://aarosanunes.github.io/)
+
+---
+
+<p align="center">✨ Obrigada por visitar! ✨</p>
 
 
   
