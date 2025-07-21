@@ -41,7 +41,6 @@
 
 - 📧 Email: aarosanunes@gmail.com  
 - 💼 [LinkedIn](www.linkedin.com/in/ana-rosa-nunes-7b978b209)  
-- 🌐 [Portfólio Web](https://aarosanunes.github.io/)
 
 ---
 
