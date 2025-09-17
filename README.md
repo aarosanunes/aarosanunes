@@ -1,15 +1,15 @@
 <h1 align="center">Olá, eu sou a Ana Nunes! 🌱</h1>
 
 <p align="center">
-  <i>Estudante de Análise e Desenvolvimento de Sistemas | Apaixonada por tecnologia e sustentabilidade</i>
+  <i>Estudante de Ciência da Computação | Apaixonada por tecnologia e sustentabilidade</i>
 </p>
 
 ---
 
 ## 🚀 Sobre mim
 
-🎓 Atualmente curso o 3º semestre de Análise e Desenvolvimento de Sistemas na Uninter.  
-💼 Jovem Aprendiz na área administrativa, com foco em organização e eficiência.  
+🎓 Atualmente curso o 4º semestre de Ciência da Computação na Amhembi Morumbi.  
+💼 Jovem Aprendiz administrativa na ultragaz.
 💻 Desenvolvendo projetos voltados para impacto ambiental positivo e tecnologia acessível.  
 🌎 Projeto atual: [Calculadora de Carbono e Blog de Horta](https://aarosanunes.github.io/projeto-extensionista-blog-de-horta-e-calculadora-de-carbono/)
 
