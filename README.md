@@ -12,7 +12,7 @@
 💼 Jovem Aprendiz administrativa na ultragaz.
 
 💻 Desenvolvendo projetos voltados para impacto ambiental positivo e tecnologia acessível.  
-🌎 Projeto atual: [Calculadora de Carbono e Blog de Horta](https://aarosanunes.github.io/projeto-extensionista-blog-de-horta-e-calculadora-de-carbono/)
+🌎 Projeto atual: [Calculadora de Carbono e Blog de Horta](https://aarosanunes.github.io/carbon-emissions-calculator/)
 
 ---
 
