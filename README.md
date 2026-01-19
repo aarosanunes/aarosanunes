@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre mim
 
-🎓 Atualmente curso o 4º semestre de Ciência da Computação na Amhembi Morumbi.  
+🎓 Atualmente curso o 5º semestre de Ciência da Computação na Amhembi Morumbi.  
 💼 Jovem Aprendiz administrativa na ultragaz.
 
 💻 Desenvolvendo projetos voltados para impacto ambiental positivo e tecnologia acessível.  
