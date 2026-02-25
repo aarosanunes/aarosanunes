@@ -8,8 +8,8 @@
 
 ## 🚀 Sobre mim
 
-🎓 Atualmente curso o 5º semestre de Ciência da Computação na Amhembi Morumbi.  
-💼 Jovem Aprendiz administrativa na ultragaz.
+🎓 Atualmente cursando o 5º semestre de Ciência da Computação na Amhembi Morumbi.  
+💼 Estagiaria de engenharia de telecomunicações 
 
 💻 Desenvolvendo projetos voltados para impacto ambiental positivo e tecnologia acessível.  
 🌎 Projeto atual: [Calculadora de Carbono e Blog de Horta](https://aarosanunes.github.io/carbon-emissions-calculator/)
